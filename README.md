@@ -67,13 +67,13 @@
       </tr>
       <tr>
             <td align="center">
-                  로그인 화면 (`LoginActivity`)
+                  로그인 화면 (LoginActivity)
             </td>
             <td align="center">
-                  메인 화면 - 내 센서 목록 (`MainActivity`)
+                  메인 화면 - 내 센서 목록 (MainActivity)
             </td>
             <td align="center">
-                알람 설정 다이얼로그 (`AlarmDialog`)
+                알람 설정 다이얼로그 (AlarmDialog)
             </td>
       </tr>
        <tr>
@@ -89,13 +89,13 @@
       </tr>
       <tr>
             <td align="center">
-                  내비게이션 드로어 (팔로우 목록 포함):
+                  내비게이션 드로어 (팔로우 목록 포함)
             </td>
             <td align="center">
-                  팔로우십 관리 및 사용자 검색 화면 (`FollowershipSearchActivity`)
+                  팔로우십 관리 및 사용자 검색 화면 (FollowershipSearchActivity)
             </td>
             <td align="center">
-                  타 계정 공장의 센서 데이터 화면 (`OtherUserActivity`)
+                  타 계정 공장의 센서 데이터 화면 (OtherUserActivity)
             </td>
       </tr>
 </table>
